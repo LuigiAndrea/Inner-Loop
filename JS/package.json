@@ -1,0 +1,15 @@
+{
+  "name": "inner-loop-js",
+  "version": "1.0.0",
+  "description": "Print all positive integer solutions to the equation a3  +  b3 = c3  + d3 in three different ways",
+  "main": "equation.js",
+  "scripts": {
+    "start": "node equation"
+  },
+  "keywords": [],
+  "author": "Luigi Andrea <luigiandrea@hotmail.it>",
+  "devDependencies": {
+    "@types/node": "^6.0.63"
+  },
+  "license": "MIT"
+}

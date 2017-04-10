@@ -7,10 +7,9 @@ Both projects solve the same equation in three different ways (From the most to 
 
 ### Prerequisites
 
-- Get Node if it's not already installed on your machine.
+- Get Node.
 
-- Get the current version of .NET Core 1.1 (1.0.0-preview2-1-003177)
-
+- Get .NET Core.
 
 ## How to use
 
@@ -28,7 +27,6 @@ Navigate to JS folder and run the following commands:
 Navigate to dotnetcore folder and run the following commands:
 
 - dotnet restore
-- dotnet build
 - dotnet run
 
 To know more about this project visit https://medium.com/@luigiandrea/performance-inner-loop-cc3eedb8fe9#.jlqpjgv4e
